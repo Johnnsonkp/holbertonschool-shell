@@ -1,3 +1,15 @@
-## Script that switches the current user to betty
+## User permission scripts
 ----------------------------------------------------
-This script switches the current user to betty
+```
+### Switch current user to betty
+
+su betty
+
+```
+
+```
+### Print the current user
+
+whoami
+
+```
